@@ -1,0 +1,20 @@
+#hraHranica{
+    border: 1px solid;
+}
+
+#gamediv{
+    text-align: center;
+}
+
+#skoreTxt{
+    font-family: "Ink Free", Bold;
+    font-size: 40px;
+}
+
+#resetBtn{
+    font-family: "Ink Free", Bold;
+    font-size: 30px;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
